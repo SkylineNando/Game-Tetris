@@ -1,0 +1,13 @@
+#tetris-board {
+    position: relative;
+    height: 600px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.tetris-block {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
